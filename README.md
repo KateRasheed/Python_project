@@ -1,5 +1,5 @@
 # Overview:
-This program that plays a “hi-low” number guessing game. 
+This program plays a “hi-low” number guessing game. The secret number could be a big or small number.
 
 # Description:
 * The program starts by generating a random number hidden from the user that is between 0 and 100.
